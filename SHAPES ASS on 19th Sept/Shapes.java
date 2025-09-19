@@ -1,3 +1,6 @@
+//223008033
+//Jean Marie Vianney NSABIYUMVA 
+
 package Com.shapes;
 
 import java.util.Scanner;
@@ -97,4 +100,5 @@ public class Shapes {
 		sc.close();
 	}
 }
+
 
